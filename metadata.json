@@ -1,0 +1,8 @@
+{
+  "name": "Recap",
+  "description": "A video-learning active-recall tool for product managers and analysts that forces original synthesis and resurfaces ideas over time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
